@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>企業 on Bolt 閃電行銷 - AI 實戰分享</title><link>https://bolt.gryex.com/tags/%E4%BC%81%E6%A5%AD/</link><description>Recent content in 企業 on Bolt 閃電行銷 - AI 實戰分享</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bolt.gryex.com/tags/%E4%BC%81%E6%A5%AD/index.xml" rel="self" type="application/rss+xml"/><item><title>AI 日報 03/31：AI 管理者信任、企業代理升級、合規風險、政府採購</title><link>https://bolt.gryex.com/posts/2026-03-31-ai-daily-01/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid>https://bolt.gryex.com/posts/2026-03-31-ai-daily-01/</guid><description>&lt;img src="https://bolt.gryex.com/" alt="Featured image of post AI 日報 03/31：AI 管理者信任、企業代理升級、合規風險、政府採購" /&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;目標受眾&lt;/strong&gt;：關注 AI 產業動向的創業者、產品／技術負責人、投資與行銷決策者&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;p&gt;今天的 AI 新聞有四個主軸：&lt;strong&gt;企業代理升級&lt;/strong&gt;、&lt;strong&gt;信任與管理落差&lt;/strong&gt;、&lt;strong&gt;合規風險擴散&lt;/strong&gt;、&lt;strong&gt;政府採購導入 AI&lt;/strong&gt;。這些變化會直接影響產品定位、銷售敘事與合規策略。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="今日重點精簡摘要"&gt;&lt;a href="#%e4%bb%8a%e6%97%a5%e9%87%8d%e9%bb%9e%e7%b2%be%e7%b0%a1%e6%91%98%e8%a6%81" class="header-anchor"&gt;&lt;/a&gt;今日重點（精簡摘要）
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;企業代理升級&lt;/strong&gt;：The Decoder 指出 Microsoft 365 Copilot 推出 Cowork，讓 AI 能接手整段工作流，並引入多模型互相校驗。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI 管理者信任落差&lt;/strong&gt;：TechCrunch 民調顯示，只有 15% 的美國人願意接受 AI 擔任直接主管，信任與文化阻力仍大。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;合規風險擴散&lt;/strong&gt;：TechCrunch 報導 LiteLLM 與安全合規供應商的爭議，顯示「合規鏈」本身成為新風險來源。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;政府採購導入 AI&lt;/strong&gt;：Wired 報導 IRS 測試 Palantir 工具，用於篩選高價值稅務調查目標，顯示公部門 AI 應用進入決策核心。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1 id="深度觀點你該關注什麼"&gt;&lt;a href="#%e6%b7%b1%e5%ba%a6%e8%a7%80%e9%bb%9e%e4%bd%a0%e8%a9%b2%e9%97%9c%e6%b3%a8%e4%bb%80%e9%ba%bc" class="header-anchor"&gt;&lt;/a&gt;深度觀點（你該關注什麼）
+&lt;/h1&gt;&lt;h2 id="1-企業代理升級ai-不只輔助而是接手流程"&gt;&lt;a href="#1-%e4%bc%81%e6%a5%ad%e4%bb%a3%e7%90%86%e5%8d%87%e7%b4%9aai-%e4%b8%8d%e5%8f%aa%e8%bc%94%e5%8a%a9%e8%80%8c%e6%98%af%e6%8e%a5%e6%89%8b%e6%b5%81%e7%a8%8b" class="header-anchor"&gt;&lt;/a&gt;1) 企業代理升級：AI 不只輔助，而是接手流程
+&lt;/h2&gt;&lt;p&gt;Microsoft 的 Cowork 把 AI 從「協助工作」拉升到「接手流程」，並引入模型互相校驗，代表兩個趨勢：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI 代理將成為流程型產品的標配&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可靠性不再靠單一模型，而是靠「多模型驗證」設計&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;對你來說&lt;/strong&gt;：若你的產品是流程或企業 SaaS，必須思考「AI 是否能接手完整任務」，而非僅提供聊天介面。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="2-信任落差ai-管理者的採用阻力比你想的高"&gt;&lt;a href="#2-%e4%bf%a1%e4%bb%bb%e8%90%bd%e5%b7%aeai-%e7%ae%a1%e7%90%86%e8%80%85%e7%9a%84%e6%8e%a1%e7%94%a8%e9%98%bb%e5%8a%9b%e6%af%94%e4%bd%a0%e6%83%b3%e7%9a%84%e9%ab%98" class="header-anchor"&gt;&lt;/a&gt;2) 信任落差：AI 管理者的採用阻力比你想的高
+&lt;/h2&gt;&lt;p&gt;民調顯示大多數人不願意讓 AI 當主管，說明兩個現實：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;組織文化仍偏向人類管理&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI 需要解釋性與公平性證據才能進入管理層&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;對你來說&lt;/strong&gt;：若你做管理或流程工具，必須提供透明度與可解釋機制，否則 AI 只能停留在「輔助層」。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="3-合規風險擴散供應鏈不是保護而是變數"&gt;&lt;a href="#3-%e5%90%88%e8%a6%8f%e9%a2%a8%e9%9a%aa%e6%93%b4%e6%95%a3%e4%be%9b%e6%87%89%e9%8f%88%e4%b8%8d%e6%98%af%e4%bf%9d%e8%ad%b7%e8%80%8c%e6%98%af%e8%ae%8a%e6%95%b8" class="header-anchor"&gt;&lt;/a&gt;3) 合規風險擴散：供應鏈不是保護，而是變數
+&lt;/h2&gt;&lt;p&gt;LiteLLM 事件顯示，合規供應商本身可能是風險來源。這意味著合規不只是「通過認證」，還包括供應鏈安全。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;對你來說&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;合規策略要加入供應鏈風險評估。&lt;/li&gt;
+&lt;li&gt;需要建立「多重安全驗證與替代方案」。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="4-政府採購導入-ai決策權開始下放給演算法"&gt;&lt;a href="#4-%e6%94%bf%e5%ba%9c%e6%8e%a1%e8%b3%bc%e5%b0%8e%e5%85%a5-ai%e6%b1%ba%e7%ad%96%e6%ac%8a%e9%96%8b%e5%a7%8b%e4%b8%8b%e6%94%be%e7%b5%a6%e6%bc%94%e7%ae%97%e6%b3%95" class="header-anchor"&gt;&lt;/a&gt;4) 政府採購導入 AI：決策權開始下放給演算法
+&lt;/h2&gt;&lt;p&gt;IRS 測試 Palantir 工具，用於篩選調查對象，顯示 AI 已進入政府決策核心。這代表：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;公部門 AI 化會帶動更大規模採購需求&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;同時會引發更高的監管與透明度要求&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;對你來說&lt;/strong&gt;：如果你做 AI 方案，要準備「可稽核、可解釋」的能力，才能進入公部門或大型企業決策系統。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="今日流程圖用-mermaid-表示"&gt;&lt;a href="#%e4%bb%8a%e6%97%a5%e6%b5%81%e7%a8%8b%e5%9c%96%e7%94%a8-mermaid-%e8%a1%a8%e7%a4%ba" class="header-anchor"&gt;&lt;/a&gt;今日流程圖（用 Mermaid 表示）
+&lt;/h1&gt;&lt;pre class="mermaid" style="visibility:hidden"&gt;flowchart TD
+ A[AI 產業訊號] --&gt; B[企業代理升級]
+ A --&gt; C[信任與管理落差]
+ A --&gt; D[合規風險擴散]
+ A --&gt; E[政府採購導入 AI]
+
+ B --&gt; B1[AI 接手完整工作流]
+ B --&gt; B2[多模型互相校驗]
+ C --&gt; C1[主管職信任不足]
+ D --&gt; D1[供應鏈成新風險點]
+ E --&gt; E1[決策權下放給演算法]&lt;/pre&gt;&lt;hr&gt;
+&lt;h1 id="你可以立刻做的事行動清單"&gt;&lt;a href="#%e4%bd%a0%e5%8f%af%e4%bb%a5%e7%ab%8b%e5%88%bb%e5%81%9a%e7%9a%84%e4%ba%8b%e8%a1%8c%e5%8b%95%e6%b8%85%e5%96%ae" class="header-anchor"&gt;&lt;/a&gt;你可以立刻做的事（行動清單）
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;若做企業工具，設計「AI 可接手流程」而非只做聊天介面&lt;/li&gt;
+&lt;li&gt;補強 AI 透明度與解釋性，避免管理層採用阻力&lt;/li&gt;
+&lt;li&gt;將合規策略延伸到供應鏈安全與替代方案&lt;/li&gt;
+&lt;li&gt;若想切入政府或大型企業，建立可稽核與可解釋標準&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1 id="延伸閱讀來源"&gt;&lt;a href="#%e5%bb%b6%e4%bc%b8%e9%96%b1%e8%ae%80%e4%be%86%e6%ba%90" class="header-anchor"&gt;&lt;/a&gt;延伸閱讀（來源）
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;The Decoder｜Microsoft 365 Copilot Cowork：
+&lt;a class="link" href="https://the-decoder.com/microsoft-rolls-out-copilot-cowork-more-broadly-and-lets-ai-models-check-each-others-work/" target="_blank" rel="noopener"
+ &gt;https://the-decoder.com/microsoft-rolls-out-copilot-cowork-more-broadly-and-lets-ai-models-check-each-others-work/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TechCrunch｜AI 管理者民調：
+&lt;a class="link" href="https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/" target="_blank" rel="noopener"
+ &gt;https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TechCrunch｜LiteLLM 合規風險：
+&lt;a class="link" href="https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/" target="_blank" rel="noopener"
+ &gt;https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wired｜IRS 測試 Palantir：
+&lt;a class="link" href="https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/" target="_blank" rel="noopener"
+ &gt;https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

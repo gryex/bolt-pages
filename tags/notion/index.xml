@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notion on Bolt 閃電行銷 - AI 實戰分享</title><link>https://bolt.gryex.com/tags/notion/</link><description>Recent content in Notion on Bolt 閃電行銷 - AI 實戰分享</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bolt.gryex.com/tags/notion/index.xml" rel="self" type="application/rss+xml"/><item><title>內容工廠：Notion + AI 的產出流程</title><link>https://bolt.gryex.com/posts/2026-03-23-deep-09/</link><pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate><guid>https://bolt.gryex.com/posts/2026-03-23-deep-09/</guid><description>
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;目標受眾&lt;/strong&gt;：自媒體／內容團隊／行銷小編（需要可視化的內容流程）&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;p&gt;產出效率低，不是因為你不努力，而是沒有「流程工廠」。這篇給你一套 Notion + AI 的內容工廠設計，從資料庫、欄位、流程到可直接套用的模板。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="一內容工廠的三個核心區"&gt;&lt;a href="#%e4%b8%80%e5%85%a7%e5%ae%b9%e5%b7%a5%e5%bb%a0%e7%9a%84%e4%b8%89%e5%80%8b%e6%a0%b8%e5%bf%83%e5%8d%80" class="header-anchor"&gt;&lt;/a&gt;一、內容工廠的三個核心區
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;題材池&lt;/strong&gt;：所有想法的入口&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生產線&lt;/strong&gt;：腳本 → 草稿 → 定稿&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;回收區&lt;/strong&gt;：數據回饋與再製&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1 id="二notion-資料庫設計必備欄位"&gt;&lt;a href="#%e4%ba%8cnotion-%e8%b3%87%e6%96%99%e5%ba%ab%e8%a8%ad%e8%a8%88%e5%bf%85%e5%82%99%e6%ac%84%e4%bd%8d" class="header-anchor"&gt;&lt;/a&gt;二、Notion 資料庫設計（必備欄位）
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;標題&lt;/li&gt;
+&lt;li&gt;類型（教學/案例/互動/故事）&lt;/li&gt;
+&lt;li&gt;狀態（想法/腳本/草稿/排程/已發）&lt;/li&gt;
+&lt;li&gt;平台（IG/FB/YouTube）&lt;/li&gt;
+&lt;li&gt;CTA&lt;/li&gt;
+&lt;li&gt;發布日期&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id="三ai-在哪裡發揮作用"&gt;&lt;a href="#%e4%b8%89ai-%e5%9c%a8%e5%93%aa%e8%a3%a1%e7%99%bc%e6%8f%ae%e4%bd%9c%e7%94%a8" class="header-anchor"&gt;&lt;/a&gt;三、AI 在哪裡發揮作用
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;標題生成&lt;/strong&gt;：同一題材生成 10 個標題&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;腳本加速&lt;/strong&gt;：用模板快速產出腳本&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;再製轉換&lt;/strong&gt;：一篇長文拆成多篇素材&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1 id="四實戰範例內容流程"&gt;&lt;a href="#%e5%9b%9b%e5%af%a6%e6%88%b0%e7%af%84%e4%be%8b%e5%85%a7%e5%ae%b9%e6%b5%81%e7%a8%8b" class="header-anchor"&gt;&lt;/a&gt;四、實戰範例（內容流程）
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;題材&lt;/strong&gt;：AI 做社群互動腳本&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;腳本版：長文教學&lt;/li&gt;
+&lt;li&gt;短影音版：30 秒重點&lt;/li&gt;
+&lt;li&gt;互動版：投票貼文&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id="五可直接套用模板"&gt;&lt;a href="#%e4%ba%94%e5%8f%af%e7%9b%b4%e6%8e%a5%e5%a5%97%e7%94%a8%e6%a8%a1%e6%9d%bf" class="header-anchor"&gt;&lt;/a&gt;五、可直接套用模板
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;題材卡模板&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;目標受眾：&lt;/li&gt;
+&lt;li&gt;核心痛點：&lt;/li&gt;
+&lt;li&gt;核心主張：&lt;/li&gt;
+&lt;li&gt;CTA：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;腳本模板&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;開場：&lt;/li&gt;
+&lt;li&gt;重點 1：&lt;/li&gt;
+&lt;li&gt;重點 2：&lt;/li&gt;
+&lt;li&gt;行動：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id="你可以立刻做的下一步"&gt;&lt;a href="#%e4%bd%a0%e5%8f%af%e4%bb%a5%e7%ab%8b%e5%88%bb%e5%81%9a%e7%9a%84%e4%b8%8b%e4%b8%80%e6%ad%a5" class="header-anchor"&gt;&lt;/a&gt;你可以立刻做的下一步
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;在 Notion 建一個內容資料庫&lt;/li&gt;
+&lt;li&gt;每週填 10 個題材&lt;/li&gt;
+&lt;li&gt;用模板加速寫作&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果你要，我可以幫你直接建立 Notion 版內容工廠模板。&lt;/p&gt;</description></item></channel></rss>

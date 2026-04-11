@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>競品 on Bolt 閃電行銷 - AI 實戰分享</title><link>https://bolt.gryex.com/tags/%E7%AB%B6%E5%93%81/</link><description>Recent content in 競品 on Bolt 閃電行銷 - AI 實戰分享</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bolt.gryex.com/tags/%E7%AB%B6%E5%93%81/index.xml" rel="self" type="application/rss+xml"/><item><title>市場驗證：用 AI 做出競品與需求地圖</title><link>https://bolt.gryex.com/posts/2026-03-23-deep-03/</link><pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate><guid>https://bolt.gryex.com/posts/2026-03-23-deep-03/</guid><description>
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;目標受眾&lt;/strong&gt;：創業者／產品經理／行銷負責人（需要快速判斷市場是否值得做）&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;p&gt;市場驗證不是做一份 PPT 就算完成，而是要回答兩個問題：&lt;strong&gt;誰真的有需求？競品是怎麼賺錢的？&lt;/strong&gt; 這篇給你一套「需求地圖 + 競品地圖」的實戰流程，用 AI 省掉大量蒐集時間，讓你在一週內判斷方向是否值得做。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="一先定義市場邊界避免跑偏"&gt;&lt;a href="#%e4%b8%80%e5%85%88%e5%ae%9a%e7%be%a9%e5%b8%82%e5%a0%b4%e9%82%8a%e7%95%8c%e9%81%bf%e5%85%8d%e8%b7%91%e5%81%8f" class="header-anchor"&gt;&lt;/a&gt;一、先定義市場邊界（避免跑偏）
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;你要先回答三件事&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;目標族群是誰？（角色）&lt;/li&gt;
+&lt;li&gt;目標情境是什麼？（場景）&lt;/li&gt;
+&lt;li&gt;目標問題是什麼？（痛點）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;示例（SaaS）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;角色：小型內容團隊負責人&lt;/li&gt;
+&lt;li&gt;場景：每週要產出 10–15 篇內容&lt;/li&gt;
+&lt;li&gt;痛點：缺流程、缺時間、缺人力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;這三件事不清楚，你做再多競品分析也會偏。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="二競品地圖快速看懂市場打法"&gt;&lt;a href="#%e4%ba%8c%e7%ab%b6%e5%93%81%e5%9c%b0%e5%9c%96%e5%bf%ab%e9%80%9f%e7%9c%8b%e6%87%82%e5%b8%82%e5%a0%b4%e6%89%93%e6%b3%95" class="header-anchor"&gt;&lt;/a&gt;二、競品地圖：快速看懂市場打法
+&lt;/h1&gt;&lt;h2 id="step-1蒐集-1020-個競品"&gt;&lt;a href="#step-1%e8%92%90%e9%9b%86-1020-%e5%80%8b%e7%ab%b6%e5%93%81" class="header-anchor"&gt;&lt;/a&gt;Step 1｜蒐集 10–20 個競品
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;來源&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google 關鍵字 +「替代品 / 類似工具」&lt;/li&gt;
+&lt;li&gt;G2 / Product Hunt / AppSumo&lt;/li&gt;
+&lt;li&gt;競品廣告（Meta / Google Ads）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="step-2拆出價值主張"&gt;&lt;a href="#step-2%e6%8b%86%e5%87%ba%e5%83%b9%e5%80%bc%e4%b8%bb%e5%bc%b5" class="header-anchor"&gt;&lt;/a&gt;Step 2｜拆出「價值主張」
+&lt;/h2&gt;&lt;p&gt;把每個競品的首屏標題抓下來，放在同一表格裡，就能看到市場的主流訴求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;範例表格欄位&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;競品名稱&lt;/li&gt;
+&lt;li&gt;首屏標題&lt;/li&gt;
+&lt;li&gt;主訴求（省時間 / 提升收入 / 自動化）&lt;/li&gt;
+&lt;li&gt;主要受眾&lt;/li&gt;
+&lt;li&gt;價格區間&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="step-3找出空白定位"&gt;&lt;a href="#step-3%e6%89%be%e5%87%ba%e7%a9%ba%e7%99%bd%e5%ae%9a%e4%bd%8d" class="header-anchor"&gt;&lt;/a&gt;Step 3｜找出「空白定位」
+&lt;/h2&gt;&lt;p&gt;當你把 10–20 個競品放一起，你會看到&lt;strong&gt;某些族群被忽略&lt;/strong&gt;。這就是你的切入點。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="三需求地圖找到真正痛點"&gt;&lt;a href="#%e4%b8%89%e9%9c%80%e6%b1%82%e5%9c%b0%e5%9c%96%e6%89%be%e5%88%b0%e7%9c%9f%e6%ad%a3%e7%97%9b%e9%bb%9e" class="header-anchor"&gt;&lt;/a&gt;三、需求地圖：找到真正痛點
+&lt;/h1&gt;&lt;h2 id="step-1收集真實語句"&gt;&lt;a href="#step-1%e6%94%b6%e9%9b%86%e7%9c%9f%e5%af%a6%e8%aa%9e%e5%8f%a5" class="header-anchor"&gt;&lt;/a&gt;Step 1｜收集真實語句
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;來源&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reddit / PTT / Dcard&lt;/li&gt;
+&lt;li&gt;產品評論（App Store、G2）&lt;/li&gt;
+&lt;li&gt;競品差評&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;把這些語句丟給 AI 做分類，找出高頻抱怨。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例：高頻語句&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「太多工具但沒有流程」&lt;/li&gt;
+&lt;li&gt;「功能一堆但不知道怎麼用」&lt;/li&gt;
+&lt;li&gt;「新人上手太慢」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="step-2做痛點分類"&gt;&lt;a href="#step-2%e5%81%9a%e7%97%9b%e9%bb%9e%e5%88%86%e9%a1%9e" class="header-anchor"&gt;&lt;/a&gt;Step 2｜做痛點分類
+&lt;/h2&gt;&lt;p&gt;把痛點分成三層：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;時間&lt;/strong&gt;：做太慢&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;認知&lt;/strong&gt;：不知道怎麼做&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;流程&lt;/strong&gt;：沒有系統&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="step-3判斷願付費意願"&gt;&lt;a href="#step-3%e5%88%a4%e6%96%b7%e9%a1%98%e4%bb%98%e8%b2%bb%e6%84%8f%e9%a1%98" class="header-anchor"&gt;&lt;/a&gt;Step 3｜判斷願付費意願
+&lt;/h2&gt;&lt;p&gt;看抱怨語句中是否出現：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「願意付費」「一直找不到替代品」&lt;/li&gt;
+&lt;li&gt;「我已經試過 X 但還是不行」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;這種語句是高價值訊號。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="四用-ai-加速的-3-個關鍵任務"&gt;&lt;a href="#%e5%9b%9b%e7%94%a8-ai-%e5%8a%a0%e9%80%9f%e7%9a%84-3-%e5%80%8b%e9%97%9c%e9%8d%b5%e4%bb%bb%e5%8b%99" class="header-anchor"&gt;&lt;/a&gt;四、用 AI 加速的 3 個關鍵任務
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;競品首屏文字分析&lt;/strong&gt;：找出主流訴求&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;差評語句聚類&lt;/strong&gt;：萃取痛點&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;定位句生成&lt;/strong&gt;：幫你產生 5–10 個定位方向&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1 id="五實戰範例以內容流程工具為例"&gt;&lt;a href="#%e4%ba%94%e5%af%a6%e6%88%b0%e7%af%84%e4%be%8b%e4%bb%a5%e5%85%a7%e5%ae%b9%e6%b5%81%e7%a8%8b%e5%b7%a5%e5%85%b7%e7%82%ba%e4%be%8b" class="header-anchor"&gt;&lt;/a&gt;五、實戰範例（以內容流程工具為例）
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;競品地圖結果&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;7/10 競品主打「省時間」&lt;/li&gt;
+&lt;li&gt;2/10 主打「模板化」&lt;/li&gt;
+&lt;li&gt;1/10 主打「團隊協作」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;需求地圖結果&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;高頻抱怨：沒有「流程」&lt;/li&gt;
+&lt;li&gt;真實語句：
+&lt;ul&gt;
+&lt;li&gt;「模板有了，但不知道流程怎麼跑」&lt;/li&gt;
+&lt;li&gt;「我需要的是 SOP，不是功能清單」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;定位方向&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不是再做一個工具&lt;/li&gt;
+&lt;li&gt;而是「把工具串成可執行流程」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id="六可直接套用的輸出模板"&gt;&lt;a href="#%e5%85%ad%e5%8f%af%e7%9b%b4%e6%8e%a5%e5%a5%97%e7%94%a8%e7%9a%84%e8%bc%b8%e5%87%ba%e6%a8%a1%e6%9d%bf" class="header-anchor"&gt;&lt;/a&gt;六、可直接套用的輸出模板
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;競品地圖模板&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;競品名稱：&lt;/li&gt;
+&lt;li&gt;首屏標題：&lt;/li&gt;
+&lt;li&gt;主訴求：&lt;/li&gt;
+&lt;li&gt;受眾：&lt;/li&gt;
+&lt;li&gt;價格：&lt;/li&gt;
+&lt;li&gt;可借鏡點：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;需求地圖模板&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;痛點語句：&lt;/li&gt;
+&lt;li&gt;分類（時間/認知/流程）：&lt;/li&gt;
+&lt;li&gt;願付費訊號：有/無&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;定位句模板&lt;/strong&gt;&lt;/p&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;我們幫助 ______（角色）在 ______（場景）中，用 ______（方法）解決 ______（痛點），結果 ______（可量化成果）。&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id="七常見錯誤"&gt;&lt;a href="#%e4%b8%83%e5%b8%b8%e8%a6%8b%e9%8c%af%e8%aa%a4" class="header-anchor"&gt;&lt;/a&gt;七、常見錯誤
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;只看競品功能，不看主訴求&lt;/li&gt;
+&lt;li&gt;只做表格，不做痛點分類&lt;/li&gt;
+&lt;li&gt;把定位做成「功能堆疊」&lt;/li&gt;
+&lt;li&gt;沒有任何真實語句支撐&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1 id="你可以立刻做的下一步"&gt;&lt;a href="#%e4%bd%a0%e5%8f%af%e4%bb%a5%e7%ab%8b%e5%88%bb%e5%81%9a%e7%9a%84%e4%b8%8b%e4%b8%80%e6%ad%a5" class="header-anchor"&gt;&lt;/a&gt;你可以立刻做的下一步
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;選 1 個市場場景&lt;/li&gt;
+&lt;li&gt;抓 10–20 個競品首屏&lt;/li&gt;
+&lt;li&gt;收集 30–50 句真實評論&lt;/li&gt;
+&lt;li&gt;用定位句模板寫出 3 個切入方向&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;做完你就能判斷：這市場值不值得做、你該怎麼切入。&lt;/p&gt;</description></item></channel></rss>

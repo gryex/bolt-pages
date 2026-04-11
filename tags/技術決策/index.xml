@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>技術決策 on Bolt 閃電行銷 - AI 實戰分享</title><link>https://bolt.gryex.com/tags/%E6%8A%80%E8%A1%93%E6%B1%BA%E7%AD%96/</link><description>Recent content in 技術決策 on Bolt 閃電行銷 - AI 實戰分享</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://bolt.gryex.com/tags/%E6%8A%80%E8%A1%93%E6%B1%BA%E7%AD%96/index.xml" rel="self" type="application/rss+xml"/><item><title>AI 程式開發日報 04/11：開發代理的成熟度與技術決策權</title><link>https://bolt.gryex.com/posts/2026-04-11-ai-daily-01/</link><pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate><guid>https://bolt.gryex.com/posts/2026-04-11-ai-daily-01/</guid><description>&lt;img src="https://bolt.gryex.com/" alt="Featured image of post AI 程式開發日報 04/11：開發代理的成熟度與技術決策權" /&gt;
+ &lt;blockquote&gt;
+ &lt;p&gt;&lt;strong&gt;目標受眾&lt;/strong&gt;：追求技術前瞻的軟體工程師、架構師、研發主管&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;p&gt;隨著 AI 代理（Coding Agents）進入 2026 年四月的成熟期，我們看到的趨勢不再是「它能幫我寫多少程式碼」，而是「它能在多複雜的 codebase 中保持架構的正確性」。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="今日重點精簡摘要"&gt;&lt;a href="#%e4%bb%8a%e6%97%a5%e9%87%8d%e9%bb%9e%e7%b2%be%e7%b0%a1%e6%91%98%e8%a6%81" class="header-anchor"&gt;&lt;/a&gt;今日重點（精簡摘要）
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;代理成熟度飛躍&lt;/strong&gt;：最新技術測評指出，Claude Code 等工具已能穩定處理 PR 審核、測試覆蓋率與大型專案重構，準確度顯著提升。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;決策權的轉移&lt;/strong&gt;：開發者正從「實作層」轉向「決策層」，代理工具使得「設計架構」比「撰寫程式」更具價值。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Codex 的企業護城河&lt;/strong&gt;：OpenAI 藉由 GitHub 生態系的深度整合，確立了其在企業級專案中不可替代的地位。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;邊緣與本地部署&lt;/strong&gt;：Ollama 的應用場景已從開發階段擴展至生產環境邊緣側，為高敏感度行業提供 AI 加速。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1 id="深度觀點你該關注什麼"&gt;&lt;a href="#%e6%b7%b1%e5%ba%a6%e8%a7%80%e9%bb%9e%e4%bd%a0%e8%a9%b2%e9%97%9c%e6%b3%a8%e4%bb%80%e9%ba%bc" class="header-anchor"&gt;&lt;/a&gt;深度觀點（你該關注什麼）
+&lt;/h1&gt;&lt;h2 id="1-從編碼員到調度員"&gt;&lt;a href="#1-%e5%be%9e%e7%b7%a8%e7%a2%bc%e5%93%a1%e5%88%b0%e8%aa%bf%e5%ba%a6%e5%93%a1" class="header-anchor"&gt;&lt;/a&gt;1) 從編碼員到調度員
+&lt;/h2&gt;&lt;p&gt;當 AI 代理能自主執行完整 CI/CD 流程時，開發者的核心競爭力已從「寫出正確程式碼」轉變為「定義正確的系統架構與業務邊界」。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;對你來說&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;必須加強對系統設計模式（Design Patterns）的理解。&lt;/li&gt;
+&lt;li&gt;專注於學習如何為 AI 代理編寫更精準的目標需求文件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="2-選型策略效率-vs-生態系"&gt;&lt;a href="#2-%e9%81%b8%e5%9e%8b%e7%ad%96%e7%95%a5%e6%95%88%e7%8e%87-vs-%e7%94%9f%e6%85%8b%e7%b3%bb" class="header-anchor"&gt;&lt;/a&gt;2) 選型策略：效率 vs. 生態系
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Claude Code&lt;/strong&gt;：適合敏捷開發、重視代理自主度的團隊。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Codex&lt;/strong&gt;：最穩妥的選擇，適合已經深度依賴 GitHub Workflow 的中大型企業。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gemini / Ollama&lt;/strong&gt;：作為特定情境下的專家或隱私保全解決方案。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;對你來說&lt;/strong&gt;：選型需從團隊目前的開發基礎設施出發，而非盲目追求最新的單點工具。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="今日流程圖用-mermaid-表示"&gt;&lt;a href="#%e4%bb%8a%e6%97%a5%e6%b5%81%e7%a8%8b%e5%9c%96%e7%94%a8-mermaid-%e8%a1%a8%e7%a4%ba" class="header-anchor"&gt;&lt;/a&gt;今日流程圖（用 Mermaid 表示）
+&lt;/h1&gt;&lt;pre class="mermaid" style="visibility:hidden"&gt;flowchart TD
+ A[AI 開發趨勢] --&gt; B[代理成熟度提升]
+ A --&gt; C[決策層需求增加]
+ A --&gt; D[生態系穩固護城河]
+
+ B --&gt; B1[自主 PR 與重構]
+ C --&gt; C1[架構定義與指令設計]
+ D --&gt; D1[企業級整合方案]&lt;/pre&gt;&lt;hr&gt;
+&lt;h1 id="你可以立刻做的事行動清單"&gt;&lt;a href="#%e4%bd%a0%e5%8f%af%e4%bb%a5%e7%ab%8b%e5%88%bb%e5%81%9a%e7%9a%84%e4%ba%8b%e8%a1%8c%e5%8b%95%e6%b8%85%e5%96%ae" class="header-anchor"&gt;&lt;/a&gt;你可以立刻做的事（行動清單）
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;重新檢視專案架構，確認是否具備與 AI 代理協作的模組化程度。&lt;/li&gt;
+&lt;li&gt;開始在團隊內導入 AI 代理的 PR 審核流程。&lt;/li&gt;
+&lt;li&gt;審查現有開發流程，識別哪些「瑣碎實作」可以委託給 AI 代理。&lt;/li&gt;
+&lt;li&gt;將技術學習重心偏移至系統架構設計與 AI 指令（Prompting）優化。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1 id="延伸閱讀來源"&gt;&lt;a href="#%e5%bb%b6%e4%bc%b8%e9%96%b1%e8%ae%80%e4%be%86%e6%ba%90" class="header-anchor"&gt;&lt;/a&gt;延伸閱讀（來源）
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Educative｜2026 開發工具評測：
+&lt;a class="link" href="https://www.educative.io/blog/claude-code-vs-codex-vs-gemini-code-assist" target="_blank" rel="noopener"
+ &gt;https://www.educative.io/blog/claude-code-vs-codex-vs-gemini-code-assist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Effloow｜終端 AI 代理與開發流：
+&lt;a class="link" href="https://effloow.com/articles/terminal-ai-coding-agents-compared-claude-code-gemini-cli-2026" target="_blank" rel="noopener"
+ &gt;https://effloow.com/articles/terminal-ai-coding-agents-compared-claude-code-gemini-cli-2026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dev.to｜會話管理對 AI 工具的重要性：
+&lt;a class="link" href="https://dev.to/gonewx/ai-coding-tools-comparison-2026-claude-code-vs-cursor-vs-gemini-cli-vs-codex-4aai" target="_blank" rel="noopener"
+ &gt;https://dev.to/gonewx/ai-coding-tools-comparison-2026-claude-code-vs-cursor-vs-gemini-cli-vs-codex-4aai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TechSyntax｜AI 開發者工具指南：
+&lt;a class="link" href="https://techsyntax.net/post/claude-gemini-codex-ollama-comparison-2026" target="_blank" rel="noopener"
+ &gt;https://techsyntax.net/post/claude-gemini-codex-ollama-comparison-2026&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
